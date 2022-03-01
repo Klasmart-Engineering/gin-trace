@@ -5,7 +5,6 @@ import (
 	"errors"
 	"github.com/gin-gonic/gin"
 	"net/http"
-	"os"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"log"
 )
